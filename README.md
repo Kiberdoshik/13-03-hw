@@ -18,9 +18,12 @@
 ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sT.png)
 ![Fail2ban](img/Рехзультаты%20сканирования%20sudo%20nmap%20-sT.png)
 6. `Запущено сканирование sudo nmap -sS 10.0.0.7`
+   
 ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sV%2010.0.0.7.png)
+
 ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sS%2010.0.0.7.png)
-7. `Запущено сканирование sudo nmap -sV 10.0.0.7`
+
+8. `Запущено сканирование sudo nmap -sV 10.0.0.7`
  ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sV%2010.0.0.7.png)
 ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sV%2010.0.0.7.png)
 
