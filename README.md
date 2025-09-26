@@ -6,9 +6,9 @@
 В журнале Fail2Ban события отсутствуют. Fail2ban реагирует на неудачные попытки аутентификации, чтобы заблокировать IP-адрес`
 
 1. `Установлена Suricata.`
-`![Suricata](./img/Suricata.png)`
+`![Suricata](img/Suricata.png)`
 2. `Установлен Fail2Ban.`
-`![Fail2ban](./img/Fail2ban.png)`
+`![Fail2ban](img/Fail2ban.png)`
 3. `Развернута ВМ с Kali Linux.`
 `![Fail2ban](./img/Kali.png)`
 4. `Запущено сканирование sudo nmap -sA 10.0.0.7`
