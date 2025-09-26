@@ -15,19 +15,25 @@
 3. `Развернута ВМ с Kali Linux.`
    
     ![Fail2ban](img/Kali.png)
+4. `Запущено сканирование sudo nmap -sA 10.0.0.7`
    
-5. `Запущено сканирование sudo nmap -sA 10.0.0.7`
     ![Fail2ban](img/Cканирование%20sudo%20nmap%20-sA.png)
-    ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sA.png)
    
-6. `Запущено сканирование sudo nmap -sT 10.0.0.7`
+    ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sA.png)
+5. `Запущено сканирование sudo nmap -sT 10.0.0.7`
+   
     ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sT.png)
+   
     ![Fail2ban](img/Рехзультаты%20сканирования%20sudo%20nmap%20-sT.png)
-10. `Запущено сканирование sudo nmap -sS 10.0.0.7`
+6. `Запущено сканирование sudo nmap -sS 10.0.0.7`
+   
     ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sV%2010.0.0.7.png)
+   
     ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sS%2010.0.0.7.png)
 11. `Запущено сканирование sudo nmap -sV 10.0.0.7`
+    
     ![Fail2ban](img/Сканирование%20sudo%20nmap%20-sV%2010.0.0.7.png)
+    
     ![Fail2ban](img/Результаты%20сканирования%20sudo%20nmap%20-sV%2010.0.0.7.png)
 
 ### Задание 2
